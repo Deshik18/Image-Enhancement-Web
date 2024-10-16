@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Acknowledgments
 
 This project was inspired by recent advancements in unsupervised backlit image enhancement
@@ -8,4 +9,16 @@ This project was inspired by recent advancements in unsupervised backlit image e
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
   pages={8094--8103},
   year={2023}
+=======
+## Acknowledgments
+
+This project was inspired by recent advancements in unsupervised backlit image enhancement
+
+@inproceedings{liang2023iterative,
+  title={Iterative prompt learning for unsupervised backlit image enhancement},
+  author={Liang, Zhexin and Li, Chongyi and Zhou, Shangchen and Feng, Ruicheng and Loy, Chen Change},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={8094--8103},
+  year={2023}
+>>>>>>> a7646af21c6cea9ad51970749a4f9f0ad59dbb68
 }
