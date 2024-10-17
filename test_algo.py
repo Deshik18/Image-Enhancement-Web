@@ -28,6 +28,6 @@ def algorithm_3(image_path):
     enhanced_image_path = dce_process_image(image_path)  # Use the directly imported function
     return enhanced_image_path
 
-# print(algorithm_1('tester.png'))
-# print(algorithm_2('tester.png'))
-# print(algorithm_3('tester.png'))
+print(algorithm_1('tester2.png'))
+print(algorithm_2('tester2.png'))
+print(algorithm_3('tester2.png'))
